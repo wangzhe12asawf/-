@@ -1,0 +1,4 @@
+file
+*.jpg
+dir/
+!msg.jpg
