@@ -1,4 +1,4 @@
 file
 *.jpg
 dir/
-!msg.jpg
+!msg.jpgls
